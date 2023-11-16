@@ -19,3 +19,6 @@ https://www.arduino.cc/reference/en/libraries/multifunctionshield/
 
 Shield Multifunción
 https://www.biomaker.org/multifunction-shields
+
+Tutorial para sensor 18B20
+https://programarfacil.com/blog/arduino-blog/ds18b20-sensor-temperatura-arduino/
