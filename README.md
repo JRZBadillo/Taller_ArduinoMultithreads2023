@@ -1,7 +1,9 @@
-# Taller_ArduinoMultithreads2023
+# Aprendiendo a trabajar "Multihilos" con Arduino
 
-Aprendiendo a trabajar "Multihilos" con Arduino
 links de interés:
+
+Página oficial de Arduino:
+https://www.arduino.cc/
 
 Tema Multitarea con Arduino
 https://descubrearduino.com/como-hacer-multitarea-con-arduino/
