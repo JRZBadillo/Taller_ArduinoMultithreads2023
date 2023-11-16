@@ -22,3 +22,6 @@ https://www.biomaker.org/multifunction-shields
 
 Tutorial para sensor 18B20
 https://programarfacil.com/blog/arduino-blog/ds18b20-sensor-temperatura-arduino/
+
+Instalar controladores para CI´s CH340 y CH341 (Sparkfun)
+https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
