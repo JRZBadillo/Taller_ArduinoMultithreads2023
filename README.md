@@ -25,3 +25,9 @@ https://programarfacil.com/blog/arduino-blog/ds18b20-sensor-temperatura-arduino/
 
 Instalar controladores para CI´s CH340 y CH341 (Sparkfun)
 https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
+
+Shield GSM-GPRS-BT utilizado en taller
+https://www.ebay.com/itm/SIM800C-Development-Board-Quad-band-GSM-GPRS-Bluetooth-Module-w-Antenna-inm-/401394684387?_ul=BO
+
+Tutorial para shield SIM900 y arduino UNO
+https://www.prometec.net/gprs-llamar-enviar-sms/
