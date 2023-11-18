@@ -31,3 +31,6 @@ https://www.ebay.com/itm/SIM800C-Development-Board-Quad-band-GSM-GPRS-Bluetooth-
 
 Tutorial para shield SIM900 y arduino UNO
 https://www.prometec.net/gprs-llamar-enviar-sms/
+
+Tutorial utilizado para funcionamiento de shield con SIM800C
+minuteengineers.com/sim800l-gsm-module-arduino-tutorial/
